@@ -10,6 +10,6 @@ npm install
 npm start
 ```
 
-# contract address
+# Deployed contract address
 [https://goerli.etherscan.io/token/0xff6578f851d9cfd2ad2528681b7d8ee3562ad3a1](https://goerli.etherscan.io/token/0xff6578f851d9cfd2ad2528681b7d8ee3562ad3a1)
 ![alt text](https://github.com/njbhstone/NFT-Marketplace-Tutorial/blob/master/123.png?raw=true)
